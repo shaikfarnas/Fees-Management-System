@@ -5,7 +5,7 @@
 
 /**
  *
- * @author S FARNAS
+ * @author S.FARNAS
  */
 public class home extends javax.swing.JFrame {
 
